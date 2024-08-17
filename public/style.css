@@ -1,0 +1,6 @@
+.lista-produtos {
+    
+    overflow-y:scroll; /* Adiciona a barra de rolagem vertical */
+   
+    background-color: #ff1212; /* Cor de fundo clara */
+}
